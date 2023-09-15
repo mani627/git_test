@@ -1,4 +1,4 @@
-console.log("one")
+console.log("one-conflict")
 
 console.log("two");
 
