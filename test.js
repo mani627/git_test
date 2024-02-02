@@ -14,4 +14,5 @@ console.log("seventh")
 
 console.log("Eight")
 console.log("Ninth")
-console.log("ten")
+console.log("tenth-surya_varanam")
+
