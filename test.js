@@ -24,5 +24,6 @@ console.log("feature cmt two")
 console.log("feature rebase cmt one")
 
 console.log("feature rebase cmt two")
+console.log("feature rebase cmt three")
 
 
